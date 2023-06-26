@@ -1,0 +1,22 @@
+{
+   "user":[
+      {
+         "name":"Pedro",
+         "surname":"Sánchez",
+         "age":48,
+         "image":"https://www.cidob.org/dass-2019041701/var/plain/storage/images/new_site/biografias_lideres_politicos/europa/espana/pedro_sanchez_perez_castejon/2097462-20-esl-ES/pedro_sanchez_perez_castejon_biography.jpg"
+      },
+      {
+         "name":"Yolanda",
+         "surname":"Díaz",
+         "age":48,
+         "image":"https://media.vogue.es/photos/62c42fafd086590063f96ab1/2:3/w_2240,c_limit/GettyImages-1402100529.jpg"
+      },
+      {
+         "name":"Feijoo",
+         "surname":"Nuñez",
+         "age":48,
+         "image":"https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2022/12/alberto-nunez-feijoo-presidente-pp-entrevista-exclusiva.jpg"
+      }
+   ]
+}
